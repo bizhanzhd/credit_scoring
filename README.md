@@ -1,4 +1,3 @@
-# Scindo Delivery
 
 ###### - versione di python: 3.8.0
 ###### - altre dipendenze: [requirements](https://github.com/bizhanzahedi/scindo_final_delivery/blob/main/requirements.txt)
